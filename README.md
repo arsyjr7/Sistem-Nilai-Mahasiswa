@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# 🎓 Sistem Nilai Mahasiswa
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/arsyjr7/Sistem-Nilai-Mahasiswa?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/arsyjr7/Sistem-Nilai-Mahasiswa?color=brightgreen)
+![GitHub license](https://img.shields.io/github/license/arsyjr7/Sistem-Nilai-Mahasiswa?color=orange)
 
-## Get started
+Aplikasi CRUD untuk mengelola data nilai mahasiswa berbasis **React Native (Expo)** dan **SQLite**.  
+Mendukung input nilai TB1, TB2, dan UAS, dengan perhitungan bobot otomatis dan konversi ke grade.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Fitur
+- 📌 Tambah, edit, dan hapus data mahasiswa
+- 🧮 Perhitungan nilai akhir:
+  - TB1: 30%
+  - TB2: 30%
+  - UAS: 40%
+- 🏆 Konversi nilai akhir menjadi grade (A, B+, B, C+, C, D)
+- 💾 Penyimpanan data lokal menggunakan SQLite
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## 📥 Instalasi & Menjalankan
 
 ```bash
-npm run reset-project
-```
+# 1. Clone repository
+git clone https://github.com/arsyjr7/Sistem-Nilai-Mahasiswa.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# 2. Masuk ke folder project
+cd Sistem-Nilai-Mahasiswa
 
-## Learn more
+# 3. Install dependencies
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 4. Jalankan aplikasi
+npx expo start
