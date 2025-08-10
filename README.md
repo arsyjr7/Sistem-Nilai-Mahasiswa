@@ -24,7 +24,9 @@ Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan men
 - 💾 **Penyimpanan Data Lokal** dengan SQLite (persisten walaupun aplikasi ditutup)
 
 ---
-![Sistem Nilai Mahasiswa](assets/ss-app.png)
+![Tampilan Aplikasi](assets/ss-app.png)
+
+---
 
 ## 🛠️ Teknologi yang Digunakan
 - [React Native](https://reactnative.dev/) (Expo)
