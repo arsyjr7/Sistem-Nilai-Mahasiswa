@@ -38,11 +38,11 @@ Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan men
 git clone https://github.com/arsyjr7/Sistem-Nilai-Mahasiswa.git
 cd Sistem-Nilai-Mahasiswa
 
-# 2. Masuk ke folder project
+2. **Masuk ke folder project**
 cd Sistem-Nilai-Mahasiswa
 
-# 3. Install dependencies
+3. **Install dependencies**
 npm install
 
-# 4. Jalankan aplikasi
+4. **Jalankan aplikasi**
 npx expo start
