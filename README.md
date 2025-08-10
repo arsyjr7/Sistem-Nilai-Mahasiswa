@@ -24,7 +24,7 @@ Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan men
 - 💾 **Penyimpanan Data Lokal** dengan SQLite (persisten walaupun aplikasi ditutup)
 
 ---
-![Tampilan Aplikasi](assets/ss-app.png)
+![Tampilan Aplikasi](assets/images/ss-app.png)
 
 ---
 
