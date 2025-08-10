@@ -22,5 +22,6 @@ Proyek ini adalah aplikasi React Native yang dibuat menggunakan **Expo** dan dap
 
 2. **Masuk ke folder proyek**
    ```bash
-  cd Sistem-Nilai-Mahasiswa
+   cd Sistem-Nilai-Mahasiswa
+
 
